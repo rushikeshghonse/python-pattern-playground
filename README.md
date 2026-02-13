@@ -24,5 +24,45 @@ Pattern problems help you:
 - Build strong **logic fundamentals**
 - Prepare for **coding interviews**
 
-## 📂 Repository Structure
+---
+
+## ▶️ How to Run the Programs
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rushikeshghonse/python-pattern-playground.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd python-pattern-playground
+   ```
+
+3. Run any Python file:
+   ```bash
+   python filename.py
+   ```
+
+---
+
+## 🧪 Sample Output
+
+```
+*
+* *
+* * *
+* * * *
+* * * * *
+```
+
+---
+
+## 🚀 Who Should Use This Repository?
+
+- Python beginners
+- Engineering & CS students
+- Interview preparation candidates
+- Anyone improving logic-building skills
+
+---
 
