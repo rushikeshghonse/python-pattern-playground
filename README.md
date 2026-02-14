@@ -66,3 +66,24 @@ Pattern problems help you:
 
 ---
 
+## 🤝 Contributions
+
+Contributions are welcome 🎉  
+You can:
+- Add new pattern problems
+- Optimize existing solutions
+- Improve documentation
+
+Fork the repository and create a pull request.
+
+---
+
+## 📬 Author
+
+**Rushikesh Ghonse**  
+🔗 GitHub: https://github.com/rushikeshghonse  
+
+---
+
+⭐ If you find this repository helpful, please give it a star!
+
